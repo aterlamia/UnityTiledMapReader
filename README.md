@@ -11,7 +11,7 @@ Also it will take information from object layers and convert them to collision o
 ## Tile layer
 Important for now the scrip will only read the first layer and first tileset in the tiled map it will store the extra layers but does not use them yet, keep this in mind when exporting and when you get errors.
 
-## Object later
+## Object layer
 Every object layer will be read but it will only check for 2 types of objects for now
 
  - A rectangle object will be converted to a box collider
